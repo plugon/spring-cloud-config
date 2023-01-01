@@ -1,6 +1,0 @@
-token:
-  expiration_time: 86400000
-  secret: 123123
-
-gatway:
-  ip: 192.168.1.249
